@@ -1,0 +1,5 @@
+[
+  {"source": "partner_import", "name": "Maria", "email": "maria@example.com", "phone": "+380000000003", "message": "1-кімнатна для інвестиції, до 50к, цього кварталу"},
+  {"source": "partner_import", "name": "Petro", "email": "petro@example.com", "phone": "+380000000004", "message": "Хочу щось велике, гроші не питання"},
+  {"source": "partner_import", "name": "Oksana", "email": "oksana@example.com", "phone": "", "message": "Може колись"}
+]
